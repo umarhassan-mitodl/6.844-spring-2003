@@ -4,6 +4,8 @@ description: ''
 file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/af6b70beb43f8b1b50796a6ffdc38e0e_projects.pdf
 file_size: 21991
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

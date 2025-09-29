@@ -4,6 +4,8 @@ description: Problem set for Computability Theory of and with scheme.
 file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/13d6b73e8698e6fa56c8162f09146853_pset1.pdf
 file_size: 149276
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

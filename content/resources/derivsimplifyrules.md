@@ -6,6 +6,8 @@ description: deriv-simplify-rules.scm (SCM) Procedures for simplifying arithmeti
 file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/4a1e7f30a984947cc81da0db872d9543_derivsimplifyrules.scm
 file_size: 11330
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

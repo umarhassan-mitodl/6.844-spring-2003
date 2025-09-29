@@ -4,6 +4,8 @@ description: Diagnostic questionnaire
 file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/16bb1a9c36df8b04988ad40623cea655_diagnostic.pdf
 file_size: 122997
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
