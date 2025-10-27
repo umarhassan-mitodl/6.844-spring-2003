@@ -4,8 +4,6 @@ description: ''
 file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/53d0a6f4b47606cc5779734692f1ee11_ceval.scm
 file_size: 17367
 file_type: text/x-scheme
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

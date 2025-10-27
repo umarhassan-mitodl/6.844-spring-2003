@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -19,7 +17,7 @@ Week 2
 
 Due at the end of Week 2:
 
-*   Download [Scheme](http://www.gnu.org/software/mit-scheme/)
+*   Download {{% resource_link "69fb0f08-6dba-4429-a5a2-be5836f04f76" "Scheme" %}}
 *   Download Scheme Continuation Interpreter project (Project 3 from 6.001 Fall '02; links are below) and submit solutions to Problems 11, 12 and 13
     *   A description of continuations ({{% resource_link 01677019-20b6-535d-9974-66c55ca5acab "PDF" %}})
     *   Project 3 description ({{% resource_link 19a619a1-daad-086a-4a37-d03cbc20d781 "PDF" %}})

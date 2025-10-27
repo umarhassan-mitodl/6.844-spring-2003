@@ -4,8 +4,6 @@ description: Submodel with parallel convergence operator CNVG?
 file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/96f4808062fb70ac4577a488d4b38df8_cnvgsm.scm
 file_size: 62069
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

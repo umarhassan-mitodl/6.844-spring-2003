@@ -4,8 +4,6 @@ description: ''
 file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/02d60bb74e9093dd658b55d6bd421f94_submodel.pdf
 file_size: 465858
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
@@ -14,7 +12,7 @@ video_metadata:
   youtube_id: null
 ---
 
-[Scheme software](http://www.gnu.org/software/mit-scheme/) is required to run the .scm files in this section. The .ini and .edwin files in this section are customization files that can be loaded into Edwin, the [MIT Scheme](http://www.gnu.org/software/mit-scheme/index.html) text editor.
+{{% resource_link "69fb0f08-6dba-4429-a5a2-be5836f04f76" "Scheme software" %}} is required to run the .scm files in this section. The .ini and .edwin files in this section are customization files that can be loaded into Edwin, the {{% resource_link "9ee5ff90-02cd-4b7a-9cc8-86f8bea173b3" "MIT Scheme" %}} text editor.
 
 Scheme Substitution Model
 -------------------------
@@ -44,6 +42,6 @@ Scheme Substitution Model
 
 ### Scheme Information
 
-*   The online Scheme repository is [available](http://www.schemers.org/). In particular, the latest official Scheme specification is in the [Revised^5 Report on the Algorithmic Language Scheme](http://www.schemers.org/Documents/Standards/R5RS/HTML/), also available in PDF format ([PDF](http://www.schemers.org/Documents/Standards/R5RS/r5rs.pdf)).
+*   The online Scheme repository is {{% resource_link "1bdd543a-81ff-467b-8cca-071fbaa1d3b3" "available" %}}. In particular, the latest official Scheme specification is in the {{% resource_link "fc2c227f-e36f-4a44-aad3-f3e55a1d0f97" "Revised^5 Report on the Algorithmic Language Scheme" %}}, also available in PDF format ({{% resource_link "9abcb004-f7b5-4cc8-a616-141bb3461509" "PDF" %}}).
 *   {{% resource_link 80ec84f3-9be5-b835-b90c-5780aa8f823f "Introductory Scheme Texts" %}}
 *   Sample edwin customization file for Unix ({{% resource_link 581f6f0f-7445-4749-056f-b9f637c0b3ff "EDWIN" %}}) and Windows ({{% resource_link 721a9873-1615-54a6-dd43-0d485a65be7a "INI" %}})

@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
@@ -17,17 +15,17 @@ video_metadata:
   youtube_id: null
 ---
 
-*   [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262510875) Harold Abelson and Gerald Jay Sussman. _Structure and Interpretation of Computer Programs_, second edition. MIT Press, 1996. 657pp. ISBN: 9780262510875.
+*   {{% resource_link "4e074528-6f0e-443f-999e-b326725d417b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Harold Abelson and Gerald Jay Sussman. _Structure and Interpretation of Computer Programs_, second edition. MIT Press, 1996. 657pp. ISBN: 9780262510875.
     *   The MIT 6.001 course text, henceforth referred to as _**SICP**_. A masterpiece.
-*   [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262332545) Daniel P. Friedman and Matthias Felleisen. _The Little Schemer_, fourth edition. MIT Press, 1995. 216pp. ISBN: 9780262332545.
+*   {{% resource_link "d7830c76-4cb8-4dc3-a56a-bd6de961cc87" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Daniel P. Friedman and Matthias Felleisen. _The Little Schemer_, fourth edition. MIT Press, 1995. 216pp. ISBN: 9780262332545.
     *   An elementary Scheme tutorial in dialog form.
-*   [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262062794) Daniel P. Friedman, Mitchell Wand, and Christopher T. Haynes. _Essentials of Programming Languages_. MIT Press, 1992. 536pp.
+*   {{% resource_link "8f34950a-fcab-48f2-b9d2-d27e55887009" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Daniel P. Friedman, Mitchell Wand, and Christopher T. Haynes. _Essentials of Programming Languages_. MIT Press, 1992. 536pp.
     *   Programming language implementation in Scheme; a sequel to _SICP_.
-*   [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262082815) Brian Harvey and Matthew Wright. _Simply Scheme_. MIT Press, 1994. 583pp.
+*   {{% resource_link "695dde43-e385-4370-a46e-4ae8601a03ac" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Brian Harvey and Matthew Wright. _Simply Scheme_. MIT Press, 1994. 583pp.
     *   An intro to functional programming in Scheme designed as a **prequel** _to SICP_.
-*   Max Hailperin, Barbara Kaiser, and Karl Knight. [_Concrete Abstractions_](http://www.gac.edu/~max/concabs/). Brooks/Cole Publishing, c. 1999. 670pp.
+*   Max Hailperin, Barbara Kaiser, and Karl Knight. {{% resource_link "2f758716-00c7-4513-833f-b4251b77267a" "_Concrete Abstractions_" %}}. Brooks/Cole Publishing, c. 1999. 670pp.
     *   An attractive alternative to _SICP_.
-*   Vincent Manis and James Little.[_The Schematics of Computation_](http://www.cs.ubc.ca/spider/little/schematics.html). Prentice-Hall, 1995.
+*   Vincent Manis and James Little.{{% resource_link "0f4f0f65-b0d4-4ddd-9179-4555872817ee" "_The Schematics of Computation_" %}}. Prentice-Hall, 1995.
     *   An attractive alternative to _SICP_.
 *   George Springer and Daniel P. Friedman._Scheme and the Art of Programming_. MIT Press, 1989. 617pp.
     *   Intro to programming in Scheme comparable at a level comparable to _SICP_. Does not cover concurrency, interpreters or compilers; does cover control abstractions such as **continuations**.

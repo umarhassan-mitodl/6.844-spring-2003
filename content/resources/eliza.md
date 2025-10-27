@@ -7,8 +7,6 @@ description: eliza.scm (SCM) Procedures for a minimal "doctor" dialog program ba
 file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/e5fb838377141496fa9e0e706c527a4a_eliza.scm
 file_size: 2186
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
